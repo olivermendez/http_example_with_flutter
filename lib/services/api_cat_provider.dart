@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:http_example/constants/api.dart';
+import 'package:http_example/constants/cat_api.dart';
 import 'package:http_example/models/cat_model.dart';
 
 class ApiManager {
